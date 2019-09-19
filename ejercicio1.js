@@ -1,6 +1,6 @@
 console.log('starting app');
 setTimeout(() => {
-
+Math.floor (1.2)
 console.log ('Inside Callback');
 }, 2000);
 
